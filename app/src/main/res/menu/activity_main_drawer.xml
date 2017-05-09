@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:title="Upcoming Events" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:title="Who We Are" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:title="Contact Us" />
+        <item
+            android:id="@+id/nav_manage"
+            android:title="Tools" />
+        <item
+            android:id="@+id/nav_login"
+            android:title="Login"/>
+
+    </group>
+</menu>
